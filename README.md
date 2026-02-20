@@ -35,15 +35,13 @@ Estou constantemente buscando evoluir minhas habilidades técnicas através de p
 - 📌 Projeto 2 – Breve descrição
 - 📌 Projeto 3 – Breve descrição
 
-*(Sugestão: sempre descreva o que o projeto faz e qual tecnologia utilizou.)*
-
 ---
 
 ## 📊 Estatísticas
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Kolle&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Kolle&layout=compact"/>
 </p>
 
 ---
