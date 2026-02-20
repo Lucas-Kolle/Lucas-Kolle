@@ -29,23 +29,6 @@ Estou constantemente buscando evoluir minhas habilidades técnicas através de p
 
 ---
 
-## 📂 Projetos em Destaque
-
-- 📌 Projeto 1 – Breve descrição
-- 📌 Projeto 2 – Breve descrição
-- 📌 Projeto 3 – Breve descrição
-
----
-
-## 📊 Estatísticas
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Kolle&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Kolle&layout=compact"/>
-</p>
-
----
-
 ## 🎯 Objetivo Profissional
 
 Busco oportunidades para desenvolver experiência prática em desenvolvimento de software, contribuindo com projetos reais e aprimorando minhas competências técnicas e analíticas.
